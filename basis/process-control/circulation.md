@@ -125,6 +125,44 @@ public class Test {
 
 
 
+## 增加for循环
+
+Java5 引入了一种主要用于数组的增强型 for 循环。用来方便遍历数组和集合。
+
+Java 增强 for 循环语法格式如下:
+
+```java
+for(声明语句 : 表达式)
+{
+   //代码句子
+}
+```
+
+- 声明语句  用来保存临时从数组中取出的元素这个语句的类型要和数组中的元素相同。
+- 表达式 通常是被遍历的数组。
+
+**实例；**
+
+```java
+int[] arrayDemo = new int[](1,2,3,4,5);
+
+for(int temp : arrayDemo){
+    System.out.println(temp);
+}
+```
+
+结果；
+
+```
+1
+2
+3
+4
+5
+```
+
+
+
 ## break关键字
 
 break 主要用在循环语句或者 switch 语句中，用来跳出整个语句块。

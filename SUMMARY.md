@@ -1,6 +1,8 @@
 # 目录
 * [介绍](README.md)
 * [术语](terms.md)
+* IDE
+  * [IntelliJ IDEA](ide/idea.md)
 * java基础
   * [搭建开发环境](./basis/dev_environment.md)
   * [注释](./basis/comment.md)
@@ -12,12 +14,17 @@
   * [数据类型转换](./basis/data_type_conversion.md)
   * [运算符](./basis/operator.md)
   * 流程控制
-    * [循环结构](./basis/process-control/circulation.md)
     * [条件语句](./basis/process-control/condition.md)
+    * [循环结构](./basis/process-control/circulation.md)
     * [switch case](./basis/process-control/switch_case.md)
   * [方法](./basis/method.md)
+* [内存](./uncategorized/ram.md)
+* [JShell](uncategorized/jshell.md)
 * java高级
-  * 面向对象
-    * [封装](./advanced/object-oriented/obj_package.md)
-    * [继承](./advanced/object-oriented/obj_inherit.md)
-    * [多态](./advanced/object-oriented/obj_polymorphism.md)
+  * 修饰符
+    * [static【静态】](advanced/modifier/static.md)
+  * [匿名对象](advanced/object-oriented/anonymous-object.md)
+  * [类](./advanced/object-oriented/class.md)
+  * [面向对象](advanced/object-oriented/object-oriented.md)
+  * [继承](./advanced/object-oriented/obj_inherit.md)
+  * [多态](./advanced/object-oriented/obj_polymorphism.md)

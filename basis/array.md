@@ -82,3 +82,8 @@ int[] arrayDemo = new int[5];
 arrayDeom[2] = 5;	//为arrayDeom数组索引是2的元素赋值，及第三个元素。
 ```
 
+
+
+## 属性
+
+- `length` 返回数组的长度int 类型的整数

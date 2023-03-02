@@ -27,4 +27,5 @@
   * [类](./advanced/object-oriented/class.md)
   * [面向对象](advanced/object-oriented/object-oriented.md)
   * [继承](./advanced/object-oriented/obj_inherit.md)
-  * [多态](./advanced/object-oriented/obj_polymorphism.md)
+  * [多态](./advanced/object-oriented/obj_polymorphism.md
+  * [注解](./advanced/annotation.md)
